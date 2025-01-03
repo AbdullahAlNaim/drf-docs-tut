@@ -1,0 +1,16 @@
+# Python bytecode files
+tut/snippets/__pycache__/
+
+tut/tut/__pycache__/
+
+tut/snippets/migrations
+
+# Local database file
+tut/db.sqlite3
+
+# Sensitive settings file
+# core/core/settings.py
+
+venv
+
+.env
